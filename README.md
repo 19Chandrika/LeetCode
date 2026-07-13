@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/19Chandrika/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/19Chandrika/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/19Chandrika/LeetCode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/19Chandrika/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -49,8 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/19Chandrika/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/19Chandrika/LeetCode/tree/master/0053-maximum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/19Chandrika/LeetCode/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/19Chandrika/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
