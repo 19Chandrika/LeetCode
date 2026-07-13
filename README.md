@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/19Chandrika/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/19Chandrika/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/19Chandrika/LeetCode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,12 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/19Chandrika/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/19Chandrika/LeetCode/tree/master/0067-add-binary) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/19Chandrika/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/19Chandrika/LeetCode/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/19Chandrika/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/19Chandrika/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
