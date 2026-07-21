@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/19Chandrika/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/19Chandrika/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/19Chandrika/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/19Chandrika/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/19Chandrika/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/19Chandrika/LeetCode/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/19Chandrika/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
