@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/19Chandrika/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/19Chandrika/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/19Chandrika/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/19Chandrika/LeetCode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/19Chandrika/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/19Chandrika/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/19Chandrika/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/19Chandrika/LeetCode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/19Chandrika/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/19Chandrika/LeetCode/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/19Chandrika/LeetCode/tree/master/0509-fibonacci-number) |
 ## Simulation
