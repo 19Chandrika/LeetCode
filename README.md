@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/19Chandrika/LeetCode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/19Chandrika/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/19Chandrika/LeetCode/tree/master/0217-contains-duplicate) |
+| [0989-add-to-array-form-of-integer](https://github.com/19Chandrika/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/19Chandrika/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/19Chandrika/LeetCode/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/19Chandrika/LeetCode/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/19Chandrika/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## Simulation
 |  |
 | ------- |
