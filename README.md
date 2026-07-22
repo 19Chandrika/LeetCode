@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/19Chandrika/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/19Chandrika/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/19Chandrika/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/19Chandrika/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/19Chandrika/LeetCode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/19Chandrika/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## Simulation
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/19Chandrika/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/19Chandrika/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/19Chandrika/LeetCode/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/19Chandrika/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/19Chandrika/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
