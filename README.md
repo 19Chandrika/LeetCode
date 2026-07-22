@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/19Chandrika/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/19Chandrika/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/19Chandrika/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/19Chandrika/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/19Chandrika/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/19Chandrika/LeetCode/tree/master/0242-valid-anagram) |
 ## String
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/19Chandrika/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/19Chandrika/LeetCode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/19Chandrika/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/19Chandrika/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/19Chandrika/LeetCode/tree/master/0217-contains-duplicate) |
 | [0989-add-to-array-form-of-integer](https://github.com/19Chandrika/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/19Chandrika/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/19Chandrika/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/19Chandrika/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/19Chandrika/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/19Chandrika/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/19Chandrika/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/19Chandrika/LeetCode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/19Chandrika/LeetCode/tree/master/0125-valid-palindrome) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/19Chandrika/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
