@@ -1,6 +1,6 @@
 class Solution(object):
     def majorityElement(self, nums):
-        candidate = 0
+        candidate = None
         count = 0
 
         for num in nums:
