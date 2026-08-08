@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/19Chandrika/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/19Chandrika/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/19Chandrika/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/19Chandrika/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/19Chandrika/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/19Chandrika/LeetCode/tree/master/0067-add-binary) |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/19Chandrika/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/19Chandrika/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/19Chandrika/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
