@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/19Chandrika/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/19Chandrika/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/19Chandrika/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/19Chandrika/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/19Chandrika/LeetCode/tree/master/0217-contains-duplicate) |
 | [0989-add-to-array-form-of-integer](https://github.com/19Chandrika/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## Sorting
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/19Chandrika/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/19Chandrika/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/19Chandrika/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/19Chandrika/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/19Chandrika/LeetCode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/19Chandrika/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## Simulation
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/19Chandrika/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/19Chandrika/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/19Chandrika/LeetCode/tree/master/0189-rotate-array) |
 ## Counting
 |  |
 | ------- |
