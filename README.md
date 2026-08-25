@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/19Chandrika/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/19Chandrika/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/19Chandrika/LeetCode/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/19Chandrika/LeetCode/tree/master/0724-find-pivot-index) |
 | [0989-add-to-array-form-of-integer](https://github.com/19Chandrika/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## Sorting
 |  |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/19Chandrika/LeetCode/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/19Chandrika/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
