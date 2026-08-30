@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/19Chandrika/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/19Chandrika/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -186,4 +187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/19Chandrika/LeetCode/tree/master/0141-linked-list-cycle) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/19Chandrika/LeetCode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/19Chandrika/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/19Chandrika/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
